@@ -1,3 +1,4 @@
 prvni veta
 druhá vìta
-tredti veta
+tredti veta               
+ctvrtá vìta
